@@ -1,2 +1,3 @@
 # fullstackopen2019
-Full stack web development course by University of Helsinki
+
+[Full stack web development course](https://fullstackopen.com/about/) by University of Helsinki.
